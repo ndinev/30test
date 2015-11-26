@@ -1,0 +1,45 @@
+{
+  "ProjectName": "30 kendo driver push pull",
+  "ProjectGuid": "8949d3f2-4ade-424b-aee1-29ef2b7e0d82",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.the30kendodriverpushpull",
+  "DisplayName": "30 kendo driver push pull",
+  "Author": "",
+  "Description": "30 kendo driver push pull",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{3137af12-0e03-4ae6-a662-4cb8d7ddbe49}",
+  "WP8ProductID": "{aa072578-a583-411c-82e6-c50e0c25d80f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.the30kendodriverpushpull",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
